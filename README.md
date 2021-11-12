@@ -3,4 +3,4 @@
 
 **Pasos para abrir el git**
 
-*1- Abrir el [link] (https://github.com/LervisPinales/ManejoDeGit).
+1- Abrir el [link] (https://github.com/LervisPinales/ManejoDeGit).
